@@ -1,0 +1,38 @@
+{
+	"name": "vue-bsslide",
+	"version": "1.0.0",
+	"description": "vue-slide component for vue.",
+	"main": "dist/vue-picker.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/blue0728/vue-slide.git"
+	},
+	"keywords": [
+		"vue",
+		"slide"
+	],
+	"author": "Serge",
+	"homepage": "https://github.com/blue0728/vue-slide#readme",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/blue0728/vue-slide/issues"
+	},
+	"license": "ISC",
+	"devDependencies": {
+		"babel-core": "^6.26.0",
+		"babel-loader": "^7.1.2",
+		"babel-preset-es2015": "^6.24.1",
+		"babel-preset-stage-0": "^6.24.1",
+		"better-scroll": "^1.4.0",
+		"css-loader": "^0.28.7",
+		"extract-text-webpack-plugin": "^3.0.2",
+		"postcss-salad": "^2.0.1",
+		"vue": "^2.5.3",
+		"vue-loader": "^13.4.0",
+		"vue-template-compiler": "^2.5.3",
+		"webpack": "^3.8.1"
+	}
+}
